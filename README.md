@@ -1,6 +1,6 @@
-# 🏠 Grih-Chhaya
+# 🏠 RENTAL HOME
 
-**Grih-Chhaya** is a secure authentication-based web application designed with modular architecture. It includes user login/signup functionality using PHP and integrates mailing support with PHPMailer. The project follows clean code practices and is ready for production deployment.
+**RENTAL HOME** is a secure authentication-based web application designed with modular architecture. It includes user login/signup functionality using PHP and integrates mailing support with PHPMailer. The project follows clean code practices and is ready for production deployment.
 
 ---
 
